@@ -1,8 +1,6 @@
 hshdhfshfdh
-<<<<<<< HEAD
 master
-=======
 
 dev
 dev-修改页面样式
->>>>>>> test
+ 
